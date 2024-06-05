@@ -1,0 +1,18 @@
+.Topnav{
+    height: 80px;
+    
+}
+.Home{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:15px;
+    margin-left: 540px;
+    font-weight: 90;
+}
+
+.Logo{
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 80px;
+
+}
