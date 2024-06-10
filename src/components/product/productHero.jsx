@@ -69,7 +69,7 @@ function productHero() {
         </div>
         <div className='h-[500px] w-full bg-purple-200 pt-[100px] '>
             <div className='mt-[-220px]'>
-            <Footer className='mt-[100px]'/>
+            <Footer/>
             </div>
         </div>
         

@@ -6,7 +6,7 @@ import Footer from '../general/Footer.jsx'
 function contactHero() {
   return (
     <div>
-        <div className='bg-slate-100 h-[2200px] w-full'>
+        <div className='bg-slate-100 h-[2250px] w-full'>
         <img src={ContactHeroPalm} alt='' className='w-full h-[640px]'/>
         <div className='h-[830px] w-[1100px] ml-[130px] absolute mt-[-280px] bg-green-950'>
             <p className='text-[45px] font-serif text-purple-300 font-bold ml-[300px] pt-[70px] py-5'>Feel free to contact us.<br/>
@@ -33,8 +33,8 @@ We are here to answer<br/> all your questions</p>
       })}
     </div>
         </div>
-        <div className='w-[1100px] h-[80px] mt-[550px] ml-[130px]'><iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=3276%20Sandlake%20road%20off%20Kastina%20ala%20street%20Maitama.+(Oracleous)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe></div>
-       <div className='mt-[600px]'> <Footer/></div>
+        <div className='w-[1100px] h-[80px] mt-[550px] ml-[130px]'><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=3276%20Sandlake%20road%20off%20Kastina%20ala%20street%20Maitama.+(Oracleous)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe></div>
+       <div className='mt-[630px]'> <Footer/></div>
         </div>
     </div>
 

@@ -5,7 +5,7 @@ function Topnav() {
 
     return (
       
-      <div className='Topnav w-full flex bg-green-900 fixed z-20'>
+      <div className='Topnav w-full flex bg-green-950 fixed z-20'>
         <div className="Logo">
           <img src={OracleousLogo2} alt='Logo' className=" "/>
         </div>
@@ -13,7 +13,7 @@ function Topnav() {
         <div className="Home flex space-x-[50px] pt-[30px] text-purple-200">
           <a href="/" className="hover:text-white">Home</a>
           <a href="/product-page" className="hover:text-white">Products</a>
-          <a href="/Our-Story" className="hover:text-white">Our story</a>
+          <a href="/Our-Story-page" className="hover:text-white">Our story</a>
           <a href="/about-us" className="hover:text-white">About us</a>
           <a href="/contact-page" className="hover:text-white">Contact</a>
         </div>
