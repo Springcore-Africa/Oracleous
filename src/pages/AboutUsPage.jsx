@@ -1,8 +1,13 @@
 import React from 'react'
+import TopNav from '../components/general/Topnav'
+import AboutUsHero from '../components/about-us/aboutUsHero'
 
 function AboutUsPage() {
   return (
-    <div>AboutUsPage</div>
+    <div>
+      <TopNav/>
+      <AboutUsHero/>
+    </div>
   )
 }
 

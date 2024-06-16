@@ -3,6 +3,7 @@ import OurStoryHeroPic from '../../assets/ourStoryHeroPic.webp'
 import { OurExperiencesPalm } from '../../data/OurExperiencesPalm'
 import OurStoryPalm from '../../assets/ourStoryPalm.jpg' 
 import whyUsPalm from '../../assets/whyUsPalm.jpg'
+import Footer from '../general/Footer'
 
 
 function ourStoryHero() {
@@ -57,11 +58,11 @@ function ourStoryHero() {
      
       
       </div>
-      <div className='bg-purple-100 h-[500px] w-full'>
+      <div className='bg-purple-100 h-[730px] w-full'>
 
       </div>
     
-      <div className='bg-green-950 h-[450px] w-[700px] ml-[120px] mt-[-680px]'>
+      <div className='bg-green-950 h-[450px] w-[700px] ml-[120px] mt-[-930px]'>
       <h1 className='font-bold text-[28px] ml-[40px] pt-[40px] text-purple-200 font-serif'>Curabitur sed iaculis dolor, non congue,<br/> ligula imperdiet ante posuere
       </h1>
       <h2 className='text-slate-200 ml-[40px] mt-[24px] text-[17px]'>Nunc urna libero, congue porta nibh a, semper feugiat sem. Sed auctor<br/> dui eleifend, scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit<br/> accumsan. Donec sodales, neque vitae rutrum convallis, nulla tortor<br/> pharetra odio, in varius ante ante sed nisi orci varius.
@@ -73,7 +74,9 @@ function ourStoryHero() {
     <div>
       <img src={whyUsPalm} alt='' className='h-[450px] w-[450px] mt-[-450px] ml-[800px] ' />
     </div>
-    <footer/>
+    <div className='absolute top-[4230px]'>
+    <Footer/>
+    </div>
     </div>
   )
 }

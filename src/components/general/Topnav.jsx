@@ -14,7 +14,7 @@ function Topnav() {
           <a href="/" className="hover:text-white">Home</a>
           <a href="/product-page" className="hover:text-white">Products</a>
           <a href="/Our-Story-page" className="hover:text-white">Our story</a>
-          <a href="/about-us" className="hover:text-white">About us</a>
+          <a href="/about-us-page" className="hover:text-white">About us</a>
           <a href="/contact-page" className="hover:text-white">Contact</a>
         </div>
       </div>
