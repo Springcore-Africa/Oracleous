@@ -10,7 +10,8 @@ function contactHero() {
         <img src={ContactHeroPalm} alt='' className='w-full h-[640px]'/>
         <div className='h-[830px] w-[1100px] ml-[130px] absolute mt-[-280px] bg-green-950'>
             <p className='text-[45px] font-serif text-purple-300 font-bold ml-[300px] pt-[70px] py-5'>Feel free to contact us.<br/>
-We are here to answer<br/> all your questions</p>
+We are here to answer<br/></p>
+            <p className='text-[45px] font-serif text-purple-300 font-bold ml-[350px] mt-[-20px]'> all your questions</p>
             <div className='mt-[30px]'>
             <h1 className='font-bold text-purple-200 ml-[280px]'>Monday - Saturday</h1>
             <div className='h-[1px] w-[148px] bg-lime-500 ml-[280px] mt-[6px]'></div>
