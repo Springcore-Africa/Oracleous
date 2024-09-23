@@ -1,27 +1,27 @@
-import Apple from '../assets/Apple.png'
-import Peach from '../assets/Peach.png'
-import Grapes from '../assets/Grapes.png'
-import Pear from '../assets/Pear.png'
+import palm from '../assets/aggregate.png'
+import Palm from '../assets/process.png'
+import Pack from '../assets/package.png'
+import Pear from '../assets/distribute.png'
 
 export const HomeCardData = [
     {
-        title: 'Apple',
-        image : Apple,
-        description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.'
+        title: 'Aggregation',
+        image : palm,
+        description: 'We Carefully Aggregate Oil Palm from Our Trusted Suppliers.'
     },
     {
-        title: 'Peach',
-        image : Peach,
-        description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.'
+        title: 'Production',
+        image : Palm,
+        description: 'We efficiently Transform our raw materials to finished Undiluted Palm oil'
     },
     {
-        title: 'Grapes',
-        image : Grapes,
-        description: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut'
+        title: 'Packaging',
+        image : Pack,
+        description: 'We meticulously package our premium palm oil in elegantly branded gallons, ensuring both quality and visual appeal.'
     },
     {
-        title: 'Pear',
+        title: 'Delivery',
         image :Pear ,
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius.'
+        description: 'We provide reliable delivery services to ensure that our premium palm oil reaches our customers promptly and in excellent condition.'
     }
 ]

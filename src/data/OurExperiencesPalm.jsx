@@ -1,17 +1,29 @@
-import Expalm1 from '../assets/Expalm1.jpg'
-import Expalm2 from '../assets/Expalm2.jpg'
-import Expalm3 from '../assets/Expalm3.jpg'
+import RedPalm from '../assets/Red-Palm-.jpg'
+import PalmAgr from '../assets/PalmAgr.jpg'
+import shutter from '../assets/shutterstock.webp'
+import white from '../assets/whitePalm.jpg'
+import PalmPeople from '../assets/PalmPeople.jpg'
+import PalmHand from '../assets/pamlHand.jpg'
 
 
 export const OurExperiencesPalm = [
     {
-        image : Expalm1,
+        image : RedPalm,
     },
     {
-        image : Expalm2,
+        image : PalmAgr,
     },
     {
-        image : Expalm3,
+        image : shutter,
+    },
+    {
+        image : white,
+    },
+    {
+        image : PalmPeople,
+    },
+    {
+        image : PalmHand,
     },
     
 ]

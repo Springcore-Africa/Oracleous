@@ -10,7 +10,7 @@ function Topnav() {
           <img src={OracleousLogo2} alt='Logo' className="h-[65px] ml-[-40px] "/>
         </div>
        
-        <div className="Home flex space-x-[50px] pt-[30px] text-xl text-black">
+        <div className="Home flex space-x-[50px] pt-[30px] text-lg text-black">
           <a href="/" className="hover:text-green-700 hover:underline">Home</a>
           <a href="/product-page" className="hover:text-green-700 hover:underline">Products</a>
           <a href="/Our-Story-page" className="hover:text-green-700 hover:underline">Our story</a>
