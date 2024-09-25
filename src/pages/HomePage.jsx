@@ -11,7 +11,7 @@ function HomePage() {
       <Topnav/>
       <HomeHero/>
       <OurExperiences/>
-    
+      <WhyUs/>
       <Footer/> 
     </div>
   )

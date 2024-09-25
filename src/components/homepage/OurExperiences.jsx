@@ -12,7 +12,7 @@ import PalmHand from '../../assets/pamlHand.jpg'
 
 function OurExperiences() {
   return (
-    <div className='h-[3000px] mt-[30px] w-full bg-slate-50'>
+    <div className='h-[200px] mt-[30px] w-full bg-slate-50'>
 
     <div className="overflow-hidden whitespace-nowrap mt-[50px]">
       <div className="flex space-x-[20px] animate-marquee">
@@ -25,7 +25,7 @@ function OurExperiences() {
       </div>
     </div>
     
-      <WhyUs/>
+      
     </div>
   )
 }

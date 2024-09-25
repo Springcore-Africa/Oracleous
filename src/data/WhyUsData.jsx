@@ -18,7 +18,7 @@ export const WhyUsData = [
         description: 'Duis aute irure dolor in repreenderit in voluptate velit esse cillum dolore'
     },
     {
-        title: 'Voluptate',
+        title: 'Undiluted Palm Oil',
         image :crisis ,
         description: 'Allamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure'
     },
@@ -28,12 +28,12 @@ export const WhyUsData = [
         description: 'Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.'
     },
     {
-        title: 'Hendrerit nulla',
+        title: 'Valued Partnerships',
         image:  partnership,
         description: 'Allamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure'
     },
     {
-        title: 'Curabitur',
+        title: 'Efficient Delivery',
         image: tractor,
         description: 'Occaecat cupidatat non proident, sunt in.'
     }

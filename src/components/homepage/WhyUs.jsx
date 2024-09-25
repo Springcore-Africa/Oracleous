@@ -13,7 +13,7 @@ function WhyUs() {
             
             
         </div>
-        <div className='grid grid-cols-3 gap-20 space-x-[6px] mt-[60px] ml-[70px] '>
+        <div className='grid grid-cols-3 gap-10 space-x-[6px] mt-[60px] ml-[50px] '>
       {WhyUsData.map((data, index)=>{
         return(
             <div key={index} className=''>
@@ -33,7 +33,10 @@ function WhyUs() {
       
       <h1 className='font-bold text-[28px] ml-[40px] pt-[120px] text-purple-200 font-serif'>Curabitur sed iaculis dolor, non congue,<br/> ligula imperdiet ante posuere
       </h1>
-      <h2 className='text-slate-200 ml-[40px] mt-[24px] text-[17px]'>Nunc urna libero, congue porta nibh a, semper feugiat sem. Sed auctor<br/> dui eleifend, scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit<br/> accumsan. Donec sodales, neque vitae rutrum convallis, nulla tortor<br/> pharetra odio, in varius ante ante sed nisi orci varius.
+      <h2 className='text-slate-200 ml-[40px] mt-[24px] text-[17px]'>African oil palm is more widely distributed than other types of palm trees and was first discovered in
+        Africa along the coastal strip. Since being domesticated, the oil palm has been imported and grown throughout the humid tropics, with the majority of palm oil being used
+        for food. It still has numerous traditional applications in Africa. Breeding can increase the amount of oil produced by the palm, enhance
+        the type of oil it produces, and improve nutritional value.
       </h2>
       
     </div>
